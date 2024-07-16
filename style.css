@@ -119,7 +119,7 @@ body{
 }
 
 .weather-details .humidity{
-    padding-left: 10px;
+    padding-left: 20px;
     justify-content: flex-start;
 }
 
